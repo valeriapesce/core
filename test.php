@@ -2,7 +2,7 @@
 <body>
 <?php
 
-echo "ciao";
+
 
 ?>
 </body>
